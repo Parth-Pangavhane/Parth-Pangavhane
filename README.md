@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/parthpangavhane?t=mljpwkmwaxeansjdolgq5g&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/parthpangavhane?t=mljpwkmwaxeansjdolgq5g&s=08" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/parth-pangavhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parth-pangavhane" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/parthpangavhane.999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/parthpangavhane.999" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/parth-pangavhane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parth-pangavhane/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/parthpangavhane.999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/parthpangavhane.999" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/parthpangavhane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/parthpangavhane/" height="30" width="40" /></a>
 </p>
 
