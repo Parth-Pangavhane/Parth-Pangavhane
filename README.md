@@ -7,7 +7,7 @@
 
 - 👨‍💻 Connect me [https://linktr.ee/parthpangavhane](https://linktr.ee/parthpangavhane)
 
-- 📫 How to reach me **parthpangavhane@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
