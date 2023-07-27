@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/parth-pangavhane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parth-pangavhane/" height="30" width="40" /></a><br><br>
+<a href="https://www.linkedin.com/in/parth-pangavhane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parth-pangavhane/" height="30" width="40" /></a><br><br>
 <a href="https://stackoverflow.com/users/22193273/parth-pangavhaane" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="https://stackoverflow.com/users/22193273/parth-pangavhaane" height="30" width="40" /></a><br><br>
 <a href="https://leetcode.com/Parth-Pangavhane/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="https://www.linkedin.com/in/parth-pangavhane/" height="30" width="40" /></a><br><br>
 <a href="https://www.facebook.com/parthpangavhane.999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/parthpangavhane.999" height="30" width="40" /></a><br><br>
