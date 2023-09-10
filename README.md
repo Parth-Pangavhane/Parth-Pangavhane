@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Parth Pangavhane<br>A Tech Enthusiast👩‍💻
+# Hi 👋, I'm Parth Pangavhane<br>A Tech Enthusiast👩‍💻
+
 
 
 ## 🌐 Socials:
