@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://github.com/aagarwal1012/Animated-Text-Kit/raw/master/display/cover.gif?raw=true"  />
+  <img height="350" width="300" src="https://github.com/aagarwal1012/Animated-Text-Kit/raw/master/display/cover.gif?raw=true"  />
 </div>
 
 ###
@@ -15,24 +15,6 @@
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Parth-Pangavhane.Parth-Pangavhane&"  />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋!!!!!!</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hii 👋.......<br>I'm Parth Pangavhane....</p>
 
 ###
 
@@ -86,6 +68,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Parth-Pangavhane&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Parth-Pangavhane/count.svg?"  />
 </div>
 
 ###
