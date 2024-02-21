@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" width="300" src="https://github.com/aagarwal1012/Animated-Text-Kit/raw/master/display/cover.gif?raw=true"  />
+  <img height="350" width="3000" src="https://github.com/aagarwal1012/Animated-Text-Kit/raw/master/display/cover.gif?raw=true"  />
 </div>
 
 ###
